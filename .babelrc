@@ -1,0 +1,7 @@
+{
+    "presets": ["env", "react"],
+    "plugins": ["transform-async-to-generator",
+      "transform-flow-strip-types",
+      "transform-class-properties"
+    ]
+}

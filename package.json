@@ -33,7 +33,7 @@
     "react-test-renderer": "^16.0.0"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest && echo exit is broken",
     "testwatch": "jest --watch"
   },
   "jest": {

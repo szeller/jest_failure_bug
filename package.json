@@ -37,12 +37,7 @@
     "testwatch": "jest --watch"
   },
   "jest": {
-    "projects": [
-      {
-        "displayName": "test",
-        "testRegex": "(/__tests__/.*)\\.(js|jsx)$"
-      }
-    ]
+    "testRegex": "(/__tests__/.*)\\.(js|jsx)$"
   },
   "author": "Shawn Zeller",
   "license": "ISC"
